@@ -40,6 +40,7 @@ The files present are described below,
 | `Final_Flipkart.ipynb` | Jupyter Notebook displaying the end result of part 2 |
 | `Flipkart_Deliverable_2.ipynb` | Jupyter Notebook for the second deliverable |
 | `InstaScrapping.ipynb` | Jupyter Notebook for scraping data from Instagram |
+| `TrendingScore.ipynb` | Jupyter Notebook for scoring trends of classified Images |
 | `Yorozuya Flipkart Grid PPT.pdf` | Final Presentation for Flipkart SD Grid 4.0 |
 
 The folders present are described below,
