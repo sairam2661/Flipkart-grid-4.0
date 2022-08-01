@@ -62,4 +62,4 @@ The required [presentation](https://drive.google.com/file/d/13_X8sXRJevog18nj_ed
 
 - Sairam Vaidya M. [@sairam2661](https://github.com/sairam2661)
 - Guna M [@Guna2K](https://github.com/Guna2K)
-- Lohith Sowmiyan P S [@LohithSowmiyanPS](https://github.com/LohithSowmiyanPS)
+- Lohith Sowmiyan P S [@LohithSowmiyanPS](https://github.com/lohithsowmiyan)
